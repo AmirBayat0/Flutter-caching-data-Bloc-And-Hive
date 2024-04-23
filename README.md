@@ -1,7 +1,6 @@
 # Efficient Data Caching with BLOC & HIVE in FLUTTER: Storing API Data with HIVE Database for Flutter's Offline Mode
 ### [Watch on YouTube](https://youtu.be/GHWPfxpkBoM)
-![main_cardy copy (4)](https://github.com/AmirBayat0/Flutter-caching-data-Bloc-And-Hive/assets/91388754/6ba72f51-95a3-4876-883d-a11e2a6ac448)
-
+[![Main](https://img.youtube.com/vi/GHWPfxpkBoM/0.jpg)](https://www.youtube.com/watch?v=GHWPfxpkBoM)
 
 
 
